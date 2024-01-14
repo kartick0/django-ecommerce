@@ -300,5 +300,10 @@ def order_detail(request,order_id):
     return render(request, 'accounts/order_detail.html',context=context)
 #uuuuu
 #aaaaaaaaaaaaaaaaa
+
 print('oooooooooooooooooyyyyyyyyyy')
 print('kartikkkkkkkkkk22222222')
+
+
+print('aaaaaaaaaaaaaaaa')
+
