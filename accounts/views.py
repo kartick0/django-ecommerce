@@ -301,4 +301,9 @@ def order_detail(request,order_id):
 #uuuuu
 #aaaaaaaaaaaaaaaaa
 
+print('oooooooooooooooooyyyyyyyyyy')
+print('kartikkkkkkkkkk22222222')
+
+
 print('aaaaaaaaaaaaaaaa')
+
