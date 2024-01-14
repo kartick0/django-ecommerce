@@ -297,6 +297,6 @@ def order_detail(request,order_id):
         'order':order,
         'subtotal':subtotal
     }
+    print('hello')
     return render(request, 'accounts/order_detail.html',context=context)
 
-#yyyyyyyyyyyyyyy
